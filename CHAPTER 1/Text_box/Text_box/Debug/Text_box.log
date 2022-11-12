@@ -1,0 +1,4 @@
+﻿  Text_box.cpp
+D:\Dhiraj\programing\WIN32\Charles Petzold\1st_program\Text_box\Text_box\Text_box.cpp(2,1): warning C4005: 'MB_ICONHAND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9093): message : see previous definition of 'MB_ICONHAND'
+  Text_box.vcxproj -> D:\Dhiraj\programing\WIN32\Charles Petzold\1st_program\Text_box\Debug\Text_box.exe
