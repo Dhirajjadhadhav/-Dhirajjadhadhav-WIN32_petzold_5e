@@ -1,7 +1,7 @@
-/*-----------------------------------------
+/*--------------------------------------------------------
   POPPAD.C      -- Popup Wditor uing Child Window edit box
-                (c) Dhiraj Jadhav, 2022  
-*/
+                 (c) Charles Petzold, 1998
+-------------------------------------------------------*/
 
 #include <Windows.h>
 #include <assert.h> 

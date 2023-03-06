@@ -1,6 +1,6 @@
 /* --------------------------------------------------------
     OWNDRAW.CPP     -- Owner-Draw Button Demo Program
-                    (c) Dhiraj Jadhav
+                     (c) Charles Petzold, 1998
 -----------------------------------------------------------*/
 #include <Windows.h>
 #include <assert.h>

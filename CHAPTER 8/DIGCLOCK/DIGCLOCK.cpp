@@ -1,6 +1,6 @@
 /*---------------------------------------------------
     DIGCLOCK.CPP   -- digital clock
-                    (c)charels Petzod. 1998
+                     (c) Charles Petzold, 1998
 -----------------------------------------------------*/
 
 #include <Windows.h>

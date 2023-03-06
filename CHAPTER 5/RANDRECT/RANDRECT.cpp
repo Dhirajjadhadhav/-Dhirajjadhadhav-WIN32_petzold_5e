@@ -1,6 +1,6 @@
 /*-----------------------------------------------------
     RANDRECT.CPP -- Display Random Rectangles 
-                    (c) Dhiraj Jadhav, 2022
+                     (c) Charles Petzold, 1998
 --------------------------------------------------------*/
 #include<Windows.h>
 #include<assert.h>

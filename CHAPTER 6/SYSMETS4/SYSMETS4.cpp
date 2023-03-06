@@ -1,6 +1,6 @@
 /*-----------------------------------------------------
     SYSMETS4.CPP -- System Metrics Display Program No. 4
-                    (c) Dhiraj Jadhav, 2022
+                     (c) Charles Petzold, 1998
 --------------------------------------------------------*/
 #include<Windows.h>
 #include<assert.h>

@@ -1,6 +1,6 @@
 /*-----------------------------------------------------
     ALTWIND.CPP -- Alternate and Winding Fill Modes
-                    (c) Dhiraj Jadhav, 2022
+                    (c) Charles Petzold, 1998
 --------------------------------------------------------*/
 #include<Windows.h>
 #include<assert.h>
